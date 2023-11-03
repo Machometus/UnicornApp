@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "green_flavour.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
