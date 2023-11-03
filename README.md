@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://github.com/Machometus/UnicornApp" target="_blank">
-    <img src="https://github.com/Machometus/UnicornApp/blob/docs/UnicornApp/Documentation.docc/Resources/logo.png?raw=true" alt="MVVMCombine Logo" />
+    <img src="https://github.com/Machometus/UnicornApp/blob/main/UnicornApp/Documentation.docc/Resources/logo.png?raw=true" alt="MVVMCombine Logo" />
   </a>
 </h3>
 
@@ -143,7 +143,7 @@ hosted by [Brandon Williams](https://twitter.com/mbrandonw) and [Stephen Celis](
 You can watch all of the episodes [here](https://www.pointfree.co/collections/composable-architecture), as well as a dedicated, [multipart tour](https://www.pointfree.co/collections/tours/composable-architecture-1-0) of the architecture from scratch.
 
 <h3 align="center">
-    <img src="https://github.com/Machometus/UnicornApp/blob/docs/UnicornApp/Documentation.docc/Resources/tca_diagram.png?raw=true" alt="The composable Architecture Diagram" />
+    <img src="https://github.com/Machometus/UnicornApp/blob/main/UnicornApp/Documentation.docc/Resources/tca_diagram.png?raw=true" alt="The composable Architecture Diagram" />
 </h3>
 
 <!-- Basic-Usage -->
@@ -189,7 +189,7 @@ The [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testi
 UnicornApp is a vibrant demo that highlights the robust capabilities of the composable architecture, offering straightforward addition, editing, and deletion of unicorns, orchestrated by reducers for seamless navigation and data management.
 
 <p align="center">
-<img src="https://github.com/Machometus/UnicornApp/blob/docs/UnicornApp/Documentation.docc/Resources/sample.gif?raw=true" alt="MyUnicornGiF" width="300"/>
+<img src="https://github.com/Machometus/UnicornApp/blob/main/UnicornApp/Documentation.docc/Resources/sample.gif?raw=true" alt="MyUnicornGiF" width="300"/>
 </p>
 
 <!-- STORE-HIERARCHY -->
@@ -198,7 +198,7 @@ UnicornApp is a vibrant demo that highlights the robust capabilities of the comp
 The following diagram illustrates store hierarchy managing state/reducer within the sample demo:
 
 <h3 align="center">
-    <img src="https://github.com/Machometus/UnicornApp/blob/docs/UnicornApp/Documentation.docc/Resources/hierarchy.png?raw=true" alt="Coordinator Hierarchy" />
+    <img src="https://github.com/Machometus/UnicornApp/blob/main/UnicornApp/Documentation.docc/Resources/hierarchy.png?raw=true" alt="Coordinator Hierarchy" />
 </h3>
 
 <!-- Appearance -->
@@ -276,7 +276,7 @@ I would like to extend my gratitude to:
 <!-- LICENSE -->
 ## License
 
-UnicornApp is released under the MIT license. [See LICENSE](https://github.com/Machometus/UnicornApp/blob/docs/LICENSE) for details.
+UnicornApp is released under the MIT license. [See LICENSE](https://github.com/Machometus/UnicornApp/blob/main/LICENSE) for details.
 
 <!-- AUTHOR -->
 ## Author
